@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "972J4J5Q5T.com.kiryl.karabeika.TestUniversalLinksApp",
+                "appID": "5KZY44FR8X.com.nutmeg.TestBank",
                 "paths": [ "/authorize*"]
             }
         ]
