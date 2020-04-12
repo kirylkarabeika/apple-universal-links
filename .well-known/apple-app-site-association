@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "5KZY44FR8X.com.nutmeg.app.Nutmeg",
-                "paths": [ "/nutmegonomics*", "/payment/bank-transfer/status*"]
+                "paths": [ "/authorize*"]
             }
         ]
     }
