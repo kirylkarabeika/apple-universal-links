@@ -4,11 +4,11 @@
         "details": [
             {
                 "appID": "5KZY44FR8X.com.nutmeg.app.Nutmeg",
-                "paths": [ "/nutmegonomics*", "/payment/bank-transfer/status*", "/auth/users/password/edit?reset_password_token=*" ]
+                "paths": [ "/nutmegonomics*", "/payment/bank-transfer/status*" ]
             },
             {
                 "appID": "5KZY44FR8X.com.nutmeg.app.Nutmeg.Dev",
-                "paths": [ "/nutmegonomics*", "/payment/bank-transfer/status*", "/auth/users/password/edit?reset_password_token=*" ]
+                "paths": [ "/auth/users/password/edit?reset_password_token=*" ]
             }
         ]
     }
