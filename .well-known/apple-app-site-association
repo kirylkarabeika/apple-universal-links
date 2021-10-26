@@ -1,15 +1,10 @@
 {
     "applinks": {
+        "apps": [],
         "details": [
             {
-                "appIDs": ["5KZY44FR8X.com.nutmeg.app.Nutmeg"],
-                "components": [
-                    {
-                       "#": "new-password",
-                       "?": { "reset_password_token": "*" },
-                        "comment": "Used to reset password"
-                    }
-                ]
+                "appID": "5KZY44FR8X.com.nutmeg.app.Nutmeg",
+                "paths": [ "/new-password"*"]
             }
         ]
     }
