@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "5KZY44FR8X.com.nutmeg.app.Nutmeg",
+                "appIDs": ["5KZY44FR8X.com.nutmeg.app.Nutmeg"],
                 "components": [
                     {
                         "/": "/new-password*",
