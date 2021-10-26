@@ -5,7 +5,7 @@
                 "appIDs": ["5KZY44FR8X.com.nutmeg.app.Nutmeg"],
                 "components": [
                     {
-                       "/": "/new-password*",
+                       "#": "new-password"
                        "?": { "reset_password_token": "*" },
                         "comment": "Used to reset password"
                     }
