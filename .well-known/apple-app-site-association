@@ -6,7 +6,7 @@
                 "appID": "5KZY44FR8X.com.nutmeg.app.Nutmeg",
                 "components": [
                     {
-                        "/": "/new-password",
+                        "/": "/new-password*",
                         "comment": "Used to reset password"
                     }
                 ]
