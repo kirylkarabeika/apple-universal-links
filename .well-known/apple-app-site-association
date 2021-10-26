@@ -4,11 +4,12 @@
         "details": [
             {
                 "appID": "5KZY44FR8X.com.nutmeg.app.Nutmeg",
-                "paths": [ "/nutmegonomics*", "/payment/bank-transfer/status*" ]
-            },
-            {
-                "appID": "5KZY44FR8X.com.nutmeg.app.Nutmeg.Dev",
-                "paths": [ "/auth/users/password/edit*" ]
+                "components": [
+                    {
+                        "/": "/auth/users/password/edit*",
+                        "comment": "Used to reset password"
+                    }
+                ]
             }
         ]
     }
